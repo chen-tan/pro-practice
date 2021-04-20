@@ -1,7 +1,7 @@
 <template>
   <div class="test-for-pull">
-      This is a test for pull
-  </div>
+      This is a test for pull 
+  </div> 
 </template>
 
 <script>
