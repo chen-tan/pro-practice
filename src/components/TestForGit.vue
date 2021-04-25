@@ -1,6 +1,7 @@
 <template>
   <div class="test-for-git">
       This is a test for git
+      This is 2.test
   </div>
 </template>
 
