@@ -1,7 +1,9 @@
 <template>
   <div class="test-for-git">
     This is master
-      This is a test for git
+    This is a test for git
+    clone-practice:modified in master
+
   </div>
 </template>
 
