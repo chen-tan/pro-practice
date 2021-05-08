@@ -1,6 +1,7 @@
 <template>
   <div class="test-for-git">
     This is 5.stash-two in TestForGit
+    This is another 5.stash-two in TestForGit
   </div>
 </template>
 
