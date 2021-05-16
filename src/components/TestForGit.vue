@@ -1,8 +1,6 @@
 <template>
   <div class="test-for-git">
       This is 1.pull
-      This is anthor person operate 1.pull
-      This is 2.test
   </div>
 </template>
 
