@@ -7,6 +7,7 @@
       This is 5.pull
 
       This is an add after create branch 6.
+      This is a test for merge in 1
   </div>
 </template>
 
