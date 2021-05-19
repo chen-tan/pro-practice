@@ -8,6 +8,7 @@
 
       This is an add after create branch 6.
       This is a test for merge in 1
+      change in branch 1,it will be merged in branch 6.
   </div>
 </template>
 
