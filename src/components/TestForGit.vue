@@ -6,7 +6,7 @@
       This is 4.pull
       This is 5.pull
 
-      
+      This is an add after create branch 6.
   </div>
 </template>
 
