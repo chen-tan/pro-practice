@@ -6,7 +6,7 @@
       This is 4.pull
       This is 5.pull
 
-      
+      This is an add in 6.create from 1.pull
   </div>
 </template>
 
